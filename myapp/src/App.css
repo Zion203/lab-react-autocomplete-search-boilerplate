@@ -1,0 +1,20 @@
+#root {
+  width: 100vw;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+
+.dropdown{
+  text-align:left;
+}
+
+button{
+  height: 40px;
+  width: 80px;
+  margin-left: 20px;
+}
+input{
+  height: 40px;
+}
